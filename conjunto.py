@@ -1,4 +1,4 @@
-print("trabalho feito por Lucas Ferraz")
+#trabalho feito por Lucas Ferraz dos Santos
 """
 ENUNCIADO
 Para obter os pontos relativos a este trabalho, você deverá criar um programa, utilizando a
